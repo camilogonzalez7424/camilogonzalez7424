@@ -3,10 +3,12 @@
 
 <h2 align="center">I am a student of Telematics engineering.</h2>
 
-<img src="https://user-images.githubusercontent.com/69222739/109561295-f813ac80-7aaa-11eb-9aa3-ad909c7e5bc5.png" align="rigth">
+<p>
+<img src="https://user-images.githubusercontent.com/69222739/109564721-75d9b700-7aaf-11eb-8f93-e2e63a63d5e7.png" align="center">
+</p>
 
 <p> 
-<img src="https://user-images.githubusercontent.com/69222739/109563979-77ef4600-7aae-11eb-9880-d37328ac9214.gif" align="right">
+<img src="https://user-images.githubusercontent.com/69222739/109564358-f350f780-7aae-11eb-9726-fbf3c4a5ab6b.gif" align="right">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="camilogonzalez7424" /> </p>
