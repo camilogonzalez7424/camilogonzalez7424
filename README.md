@@ -1,10 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Camilo González</h1>
 <h3 align="center">"WORD HARD, DREAM BIG, NEVER GIVE UP."</h3>
 
-<h2 allign="center">"I am a student of Telematics engineering."</h2>
+<h2 align="center">I am a student of Telematics engineering.</h2>
+
+<img src="https://user-images.githubusercontent.com/69222739/109561295-f813ac80-7aaa-11eb-9aa3-ad909c7e5bc5.png" align="rigth">
 
 <p> 
-<img src="https://user-images.githubusercontent.com/69222739/97387876-d90ad100-18a4-11eb-84d4-a8c939e1a756.gif" align="right">
+<img src="https://user-images.githubusercontent.com/69222739/109563733-2c3c9c80-7aae-11eb-9062-55ca9f4d94f5.gif" align="right">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="camilogonzalez7424" /> </p>
