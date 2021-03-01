@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/69222739/109564946-c5b87e00-7aaf-11eb-89e1-1b3f3224f039.png" width="730px">
 </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/69222739/109568041-4e391d80-7ab4-11eb-92bb-208b440a6c44.gif" width="550px" height="570px">
+<img align="right" src="https://user-images.githubusercontent.com/69222739/109568041-4e391d80-7ab4-11eb-92bb-208b440a6c44.gif" width="540px" height="570px">
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="camilogonzalez7424" /> </p>
