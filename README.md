@@ -55,11 +55,11 @@
 
 ### :zap: Github Stats
 
+<p>
 <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=camilogonzalez7424&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="camilogonzalez7424's Github Stats" width="60%">
   
-  
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=camilogonzalez7424&layout=compact&langs_count=8&theme=react" width="37%" alt="camilogonzalez7424's Top Languages">
-
+</p>
 <br>
 
 
