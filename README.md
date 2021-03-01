@@ -8,7 +8,7 @@
 </p>
 
 <p> 
-<img src="https://user-images.githubusercontent.com/69222739/109565080-f4ceef80-7aaf-11eb-9015-d7823718b841.gif" align="right">
+<img src="https://user-images.githubusercontent.com/69222739/109566100-652a4080-7ab1-11eb-90c5-f82d1396f0a6.gif" align="right">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="camilogonzalez7424" /> </p>
@@ -25,8 +25,10 @@
 
 - 📫 How to reach me **gonzalezcamilo508@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://twitter.com/camilogonzlezv3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="camilogonzlezv3" height="30" width="40" /></a>
 </p>
 
