@@ -4,11 +4,11 @@
 <h2 align="center">I am a student of Telematics engineering.</h2>
 
 <p>
-<img src="https://user-images.githubusercontent.com/69222739/109564721-75d9b700-7aaf-11eb-8f93-e2e63a63d5e7.png" align="center">
+<img src="https://user-images.githubusercontent.com/69222739/109564946-c5b87e00-7aaf-11eb-89e1-1b3f3224f039.png" align="center">
 </p>
 
 <p> 
-<img src="https://user-images.githubusercontent.com/69222739/109564358-f350f780-7aae-11eb-9726-fbf3c4a5ab6b.gif" align="right">
+<img src="https://user-images.githubusercontent.com/69222739/109565080-f4ceef80-7aaf-11eb-9015-d7823718b841.gif" align="right">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="camilogonzalez7424" /> </p>
