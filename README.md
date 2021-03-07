@@ -1,6 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Camilo González</h1>
 <h3 align="center">"WORD HARD, DREAM BIG, NEVER GIVE UP."</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="camilogonzalez7424" /> </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/camilo-gonzález-velasco-a52711208 //"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
 <h2 align="center">I am a student of Telematics engineering.</h2>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/69222739/109564946-c5b87e00-7aaf-11eb-89e1-1b3f3224f039.png" width="650px">
@@ -8,9 +13,6 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/69222739/109568041-4e391d80-7ab4-11eb-92bb-208b440a6c44.gif" width="450px" height="500px">
  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="camilogonzalez7424" /> </p>
-
 <p align="left"> <a href="https://twitter.com/camilogonzlezv3" target="blank"><img src="https://img.shields.io/twitter/follow/camilogonzlezv3?logo=twitter&style=for-the-badge" alt="camilogonzlezv3" /></a> </p>
 
 - 🔭 I’m currently working on **my future**
