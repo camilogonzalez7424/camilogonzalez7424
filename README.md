@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Camilo González</h1>
-<h3 align="center">"WORD HARD, DREAM BIG AND NEVER GIVE UP."</h3>
+<h3 align="center">"WORK HARD, DREAM BIG AND NEVER GIVE UP."</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="camilogonzalez7424" /> </p>
 
