@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm ~𝓒𝓪𝓶𝓲𝓵𝓸 𝓖𝓸𝓷𝔃𝓪𝓵𝓮𝔃 𝓥.</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> , I'm ~𝓒𝓪𝓶𝓲𝓵𝓸 𝓖𝓸𝓷𝔃𝓪𝓵𝓮𝔃 𝓥.</h1>
 <h3 align="center">"WORK HARD, DREAM BIG AND NEVER GIVE UP."</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="camilogonzalez7424" /> </p>
