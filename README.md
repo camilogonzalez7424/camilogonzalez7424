@@ -7,26 +7,14 @@
 
 <h2 align="center">I am a student of Telematics engineering.</h2>
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/69222739/109568041-4e391d80-7ab4-11eb-92bb-208b440a6c44.gif" width="300px" height="400"> </p>
 
-<div style="display: flex; flex-direction: row-reverse;">
-  <div style="flex: 1;">
-    <img src="https://user-images.githubusercontent.com/69222739/109568041-4e391d80-7ab4-11eb-92bb-208b440a6c44.gif" width="300px" height="400px">
-  </div>
-  <div style="flex: 1; padding-left: 1 px;">
-    <ul style="font-size: larger;">
-    <br>
-      <li>🔭 I’m currently working on <strong>my future</strong></li>
-    <br>
-      <li>🌱 I’m currently learning <strong>DevOps</strong></li>
-    <br>
-      <li>👯 I’m looking to collaborate on <strong>with other Developers</strong></li>
-    <br>
-      <li>💬 Ask me about <strong>anything, I hear you!</strong></li>
-    <br>
-      <li>📫 How to reach me <a href="mailto:gonzalezcamilo508@gmail.com">gonzalezcamilo508@gmail.com</a></li>
-    </ul>
-  </div>
-</div>
+
+🔭 I’m currently working on **my future** <br>
+🌱 I’m currently learning **DevOps** <br>
+👯 I’m looking to collaborate on **with other Developers** <br>
+💬 Ask me about **anything, I hear you!** <br>
+📫 How to reach me gonzalezcamilo508@gmail.com <br>
 
 
 <h3 align="left">Connect with me:</h3>
